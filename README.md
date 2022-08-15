@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ho Van Duy</h1>
+<h1 align="center">Hi 👋, I'm Hồ Văn Duy</h1>
 
 ## 😸 About me
 - 🔭 I’m currently working on **Golden Owl Consulting Ltd**
