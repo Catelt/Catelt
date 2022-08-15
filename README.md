@@ -6,5 +6,4 @@
 - ✉️ hovanduy0504@gmail.com
 
 ## 📈 Github Stats
-![Catelt's github stats](https://github-readme-stats.vercel.app/api?username=Catelt&show_icons=true&theme=buefy&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catelt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Catelt's github stats](https://github-readme-stats.vercel.app/api?username=Catelt&show_icons=true&theme=dracula&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Catelt&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
